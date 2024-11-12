@@ -1,0 +1,120 @@
+0 End Orange 1 94 Red 8 RedA 97 RedB 116 Mattapan 104 Blue 3 24 Green 17 GreenB 63 GreenC 75 GreenD 111 GreenE 88
+1 OakGrove Orange 0 2
+2 Malden Orange 1 5
+3 Wonderland Blue 0 4
+4 RevereBeach Blue 3 6
+5 Wellington Orange 2 117
+6 Beachmont Blue 4 9
+7 Davis Red 8 10
+8 Alewife Red 0 7
+9 SuffolkDowns Blue 6 11
+10 Porter Red 7 14
+11 OrientHeights Blue 9 13
+12 SullivanSquare Orange 15 117
+13 WoodIsland Blue 11 16
+14 Harvard Red 10 21
+15 CommunityCollege Orange 12 20
+16 Airport Blue 13 18
+17 Lechmere Green 0 19
+18 Maverick Blue 16 26
+19 SciencePark Green 17 20
+20 NorthStation Green 19 22 Orange 15 22
+21 Central Red 14 23
+22 Haymarket Green 20 27 Orange 20 28
+23 Kendall Red 21 25
+24 Bowdoin Blue 0 27
+25 Charles/MGH Red 23 29
+26 Aquarium Blue 18 28
+27 GovernmentCenter Green 22 29 Blue 24 28
+28 State Blue 26 27 Orange 22 30
+29 ParkStreet Red 25 30 Green 31 27
+30 DowntownCrossing Red 33 29 Orange 32 28
+31 Boylston Green 34 29
+32 Chinatown Orange 40 30
+33 SouthStation Red 55 30
+34 Arlington Green 37 31
+35 BabcockStreet GreenB 36 118
+36 PackardsCorner GreenB 38 35
+37 Copley Green 34 GreenB 47 GreenC 47 GreenD 47 GreenE 49
+38 HarvardAvenue GreenB 44 36
+39 BostonUniversityCentral GreenB 118 41
+40 NewEnglandMedicalCenter Orange 48 32
+41 BostonUniversityEast GreenB 39 42
+42 BlandfordStreet GreenB 41 43
+43 Kenmore GreenB 42 47 GreenC 50 47 GreenD 52 47
+44 GriggsStreet/LongwoodAvenue GreenB 46 38
+45 WarrenStreet GreenB 54 46
+46 AllstonStreet GreenB 45 43
+47 Hynes/ICA GreenB 43 37
+48 BackBay/SouthEnd Orange 59 40
+49 Prudential GreenE 57 37
+50 St.Mary'sStreet GreenC 51 43
+51 HawesStreet GreenC 53 50
+52 Fenway GreenD 60 43
+53 KentStreet GreenC 56 51
+54 WashingtonStreet GreenB 61 45
+55 Broadway Red 86 33
+56 St.PaulStreet GreenC 58 53
+57 Symphony GreenE 64 49
+58 CoolidgeCorner GreenC 62 56
+59 MassachusettsAvenue Orange 74 48
+60 Longwood GreenD 82 52
+61 SutherlandRoad GreenB 65 54
+62 WinchesterStreet/SummitAv. GreenC 66 58
+63 BostonCollege GreenB 0 68
+64 NortheasternUniversity GreenE 71 57
+65 ChiswickRoad GreenB 119 61
+66 BrandonHall GreenC 67 62
+67 FairbanksStreet GreenC 69 66
+68 SouthStreet GreenB 63 119
+69 WashingtonSquare GreenC 70 67
+70 TappanStreet GreenC 72 69
+71 MuseumofFineArts GreenE 76 64
+72 DeanRoad GreenC 73 70
+73 EnglewoodAvenue GreenC 75 72
+74 Ruggles Orange 85 59
+75 ClevelandCircle GreenC 0 73
+76 LongwoodMedicalArea GreenE 79 71
+77 Beaconsfield GreenD 78 83
+78 Reservoir GreenD 105 77
+79 BrighamCircle GreenE 80 76
+80 FenwoodRoad GreenE 81 79
+81 MissionPark GreenE 84 80
+82 BrooklineVillage GreenD 83 60
+83 BrooklineHills GreenD 77 82
+84 Riverway GreenE 87 81
+85 RoxburyCrossing Orange 89 74
+86 Andrew Red 90 55
+87 BackOfTheHill GreenE 88 84
+88 HeathStreet GreenE 0 87
+89 JacksonSquare Orange 91 85
+90 JFK/UMass Red 86 RedA 92 RedB 112
+91 StonyBrook Orange 93 89
+92 SavinHill RedA 95 90
+93 GreenStreet Orange 94 91
+94 ForestHills Orange 0 93
+95 FieldsCorner RedA 96 92
+96 Shawmut RedA 97 95
+97 Ashmont RedA 0 96 Mattapan 98 0
+98 CedarGrove Mattapan 99 97
+99 ButlerStreet Mattapan 100 98
+100 Milton Mattapan 101 99
+101 CentralAvenue Mattapan 102 100
+102 ValleyRoad Mattapan 103 101
+103 CapenStreet Mattapan 104 102
+104 Mattapan Mattapan 0 103
+105 ChesnutHill GreenD 106 78
+106 NewtonCenter GreenD 107 105
+107 NewtonHighlands GreenD 108 106
+108 Eliot GreenD 109 107
+109 Waban GreenD 110 108
+110 Woodland GreenD 111 109
+111 Riverside GreenD 0 110
+112 NorthQuincy RedB 113 90
+113 Wollaston RedB 114 112
+114 QuincyCenter RedB 115 113
+115 QuincyAdams RedB 116 114
+116 Braintree RedB 0 115
+117 Assembly Orange 5 12
+118 ArmoryStreet GreenB 39 35
+119 ChestnutHillAvenue GreenB 68 65
